@@ -1,5 +1,5 @@
 {
-  "homepage":"http://surya2697.github.io/grieving-caption-9781",
+  "homepage": "http://surya2697.github.io/grieving-caption-9781",
   "name": "quickcart",
   "version": "0.1.0",
   "private": true,
@@ -28,10 +28,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
-   
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
