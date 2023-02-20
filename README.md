@@ -1,34 +1,59 @@
-TataCliQ Clone
-Home Page
+# [TataCliQ | Original]
+
+<table>
+<tr>
+<td>
+Tata Cliq is an Indian e-commerce company based in Mumbai, India. It is owned by Tata UniStore Limited, of Tata Group. TataCLiQ operates in categories such as Electronics, Fashion, Footwear and Accessories.
+</td>
+</tr>
+</table>
 
 
-Product Page
+## Demo
+Here is a working live demo :  [Click Me](https://tatacliq.netlify.app/)
 
 
-Product Info Page
+## TataCliQ Clone
+
+### Home Page
+
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/tatacliq/tata%20(1).png)
+
+### Product Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/tatacliq/tata%20(2).png)
+
+### Product Info Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/tatacliq/tata%20(3).png)
+
+### Cart Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/tatacliq/tata%20(4).png)
+
+### Payment Page
+![](https://github.com/singhabhishek6/portfolio/blob/master/src/img/Readme/tatacliq/tata%20(5).png)
 
 
-Cart Page
 
 
-Payment Page
 
 
-[Getting Started]
-Execution..
-Want to run in your local Machine? Great!
 
-To run, follow these steps:
 
-Clone my repository https://github.com/Subham-Abhishek/TataCLiQ-Clone.git
-Built with
-HTML 5
-CSS 3
-Advance JavaScript (ES6)
-Chrome DevTools
-External Libraries
-Google Fonts
-Font Awesome
-Creators
-@Abhishek-Singh
-@Subham-Abhishek
+
+## Built with 
+
+- React
+- Chakra UI
+- Advance JavaScript (ES6)
+- Chrome DevTools
+
+## External Libraries
+
+- Google Fonts
+- Font Awesome
+
+
+
+
+
+
+  
