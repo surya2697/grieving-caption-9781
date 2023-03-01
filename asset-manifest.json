@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.37b1028e.css",
-    "main.js": "/static/js/main.fdcbadb1.js",
-    "static/js/787.5c0130cb.chunk.js": "/static/js/787.5c0130cb.chunk.js",
-    "static/media/shoes_banner.png": "/static/media/shoes_banner.4c1a36e78a5daf3cb626.png",
-    "static/media/cosy_corner_banner.png": "/static/media/cosy_corner_banner.c78bc0616f521889fcf9.png",
-    "static/media/theweddingedits.png": "/static/media/theweddingedits.6bf08afa6db4af6674cb.png",
-    "static/media/trendingnow_banner.png": "/static/media/trendingnow_banner.f8f2668a295b34dfb54e.png",
-    "static/media/trending_men_banner.png": "/static/media/trending_men_banner.4482ec6a4176b0b1fb6f.png",
-    "static/media/enter_otp_image.png": "/static/media/enter_otp_image.cd5dabc2ea34d95618d5.png",
-    "static/media/strike_choice_banner.png": "/static/media/strike_choice_banner.a9f2d8ca9c774dc686b5.png",
-    "static/media/baby_hop_banner.png": "/static/media/baby_hop_banner.58d9339234984cd87b88.png",
-    "static/media/beauty_banner.png": "/static/media/beauty_banner.90a49271136ab8009cbb.png",
-    "static/media/estside_banner_img.png": "/static/media/estside_banner_img.6f07ac1afd78541edea7.png",
-    "static/media/winterstyle_banner.png": "/static/media/winterstyle_banner.9ce62f50a677d01bf3dd.png",
-    "static/media/empty_cart.png": "/static/media/empty_cart.0868001d7f857fa92aab.png",
-    "static/media/login_image.jpg": "/static/media/login_image.07543db688822a15e5fb.jpg",
-    "static/media/error404_image.jpg": "/static/media/error404_image.bea31a1263e4c89480ad.jpg",
-    "static/media/logo.png": "/static/media/logo.683160727f0eaba9a7cd.png",
-    "index.html": "/index.html",
-    "main.37b1028e.css.map": "/static/css/main.37b1028e.css.map",
-    "main.fdcbadb1.js.map": "/static/js/main.fdcbadb1.js.map",
-    "787.5c0130cb.chunk.js.map": "/static/js/787.5c0130cb.chunk.js.map"
+    "main.css": "/grieving-caption-9781/static/css/main.37b1028e.css",
+    "main.js": "/grieving-caption-9781/static/js/main.dc142e3e.js",
+    "static/js/787.5c0130cb.chunk.js": "/grieving-caption-9781/static/js/787.5c0130cb.chunk.js",
+    "static/media/shoes_banner.png": "/grieving-caption-9781/static/media/shoes_banner.4c1a36e78a5daf3cb626.png",
+    "static/media/cosy_corner_banner.png": "/grieving-caption-9781/static/media/cosy_corner_banner.c78bc0616f521889fcf9.png",
+    "static/media/theweddingedits.png": "/grieving-caption-9781/static/media/theweddingedits.6bf08afa6db4af6674cb.png",
+    "static/media/trendingnow_banner.png": "/grieving-caption-9781/static/media/trendingnow_banner.f8f2668a295b34dfb54e.png",
+    "static/media/trending_men_banner.png": "/grieving-caption-9781/static/media/trending_men_banner.4482ec6a4176b0b1fb6f.png",
+    "static/media/enter_otp_image.png": "/grieving-caption-9781/static/media/enter_otp_image.cd5dabc2ea34d95618d5.png",
+    "static/media/strike_choice_banner.png": "/grieving-caption-9781/static/media/strike_choice_banner.a9f2d8ca9c774dc686b5.png",
+    "static/media/baby_hop_banner.png": "/grieving-caption-9781/static/media/baby_hop_banner.58d9339234984cd87b88.png",
+    "static/media/beauty_banner.png": "/grieving-caption-9781/static/media/beauty_banner.90a49271136ab8009cbb.png",
+    "static/media/estside_banner_img.png": "/grieving-caption-9781/static/media/estside_banner_img.6f07ac1afd78541edea7.png",
+    "static/media/winterstyle_banner.png": "/grieving-caption-9781/static/media/winterstyle_banner.9ce62f50a677d01bf3dd.png",
+    "static/media/empty_cart.png": "/grieving-caption-9781/static/media/empty_cart.0868001d7f857fa92aab.png",
+    "static/media/login_image.jpg": "/grieving-caption-9781/static/media/login_image.07543db688822a15e5fb.jpg",
+    "static/media/error404_image.jpg": "/grieving-caption-9781/static/media/error404_image.bea31a1263e4c89480ad.jpg",
+    "static/media/logo.png": "/grieving-caption-9781/static/media/logo.683160727f0eaba9a7cd.png",
+    "index.html": "/grieving-caption-9781/index.html",
+    "main.37b1028e.css.map": "/grieving-caption-9781/static/css/main.37b1028e.css.map",
+    "main.dc142e3e.js.map": "/grieving-caption-9781/static/js/main.dc142e3e.js.map",
+    "787.5c0130cb.chunk.js.map": "/grieving-caption-9781/static/js/787.5c0130cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37b1028e.css",
-    "static/js/main.fdcbadb1.js"
+    "static/js/main.dc142e3e.js"
   ]
 }
