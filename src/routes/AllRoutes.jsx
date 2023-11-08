@@ -22,7 +22,7 @@ export default function AllRoutes() {
       <Route path="/" element={<Homepage />}></Route>
       <Route path="/products/:id" element={<ProductsPage />}></Route>
       <Route path="/login" element={<LoginPage />}></Route>
-      <Route path="*" element={<Error404 />}></Route>
+      <Route path="*" element={<Homepage />}></Route>
       <Route
         path="/checkout"
         element={
@@ -42,11 +42,25 @@ export default function AllRoutes() {
       ></Route>
 
       {/* profile */}
-      <Route path="/profile" element={<PrivateRoute><ProfilePage /></PrivateRoute>} />
-      <Route path="/admin" element={<PrivateRoute><ProtectAdmin><AdminPanel /></ProtectAdmin></PrivateRoute>} />
+      <Route
+        path="/profile"
+        element={
+          <PrivateRoute>
+            <ProfilePage />
+          </PrivateRoute>
+        }
+      />
+      <Route
+        path="/admin"
+        element={
+          <PrivateRoute>
+            <ProtectAdmin>
+              <AdminPanel />
+            </ProtectAdmin>
+          </PrivateRoute>
+        }
+      />
       <Route path="/search" element={<SearchPage />} />
-
-
     </Routes>
   );
 }
