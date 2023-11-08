@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/grieving-caption-9781/static/css/main.37b1028e.css",
-    "main.js": "/grieving-caption-9781/static/js/main.dc142e3e.js",
+    "main.js": "/grieving-caption-9781/static/js/main.af5953fc.js",
     "static/js/787.5c0130cb.chunk.js": "/grieving-caption-9781/static/js/787.5c0130cb.chunk.js",
     "static/media/shoes_banner.png": "/grieving-caption-9781/static/media/shoes_banner.4c1a36e78a5daf3cb626.png",
     "static/media/cosy_corner_banner.png": "/grieving-caption-9781/static/media/cosy_corner_banner.c78bc0616f521889fcf9.png",
@@ -20,11 +20,11 @@
     "static/media/logo.png": "/grieving-caption-9781/static/media/logo.683160727f0eaba9a7cd.png",
     "index.html": "/grieving-caption-9781/index.html",
     "main.37b1028e.css.map": "/grieving-caption-9781/static/css/main.37b1028e.css.map",
-    "main.dc142e3e.js.map": "/grieving-caption-9781/static/js/main.dc142e3e.js.map",
+    "main.af5953fc.js.map": "/grieving-caption-9781/static/js/main.af5953fc.js.map",
     "787.5c0130cb.chunk.js.map": "/grieving-caption-9781/static/js/787.5c0130cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37b1028e.css",
-    "static/js/main.dc142e3e.js"
+    "static/js/main.af5953fc.js"
   ]
 }
