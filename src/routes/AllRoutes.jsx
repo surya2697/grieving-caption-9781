@@ -22,7 +22,7 @@ export default function AllRoutes() {
       <Route path="/" element={<Homepage />}></Route>
       <Route path="/products/:id" element={<ProductsPage />}></Route>
       <Route path="/login" element={<LoginPage />}></Route>
-      <Route path="*" element={<Homepage />}></Route>
+      <Route path="*" element={<Error404 />}></Route>
       <Route
         path="/checkout"
         element={
